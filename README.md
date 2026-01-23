@@ -10,7 +10,7 @@ Vehicle ID limit (id > 400 | id < 611) was patched by pattern finding, so it sho
 
 ## Supported Versions
 
-- 0.3.7 R3
+- 0.3.7 R3(-1)
 - 0.3.7 R4
 - 0.3.7 R5
 - 0.3.DL-R1
